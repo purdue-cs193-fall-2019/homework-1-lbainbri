@@ -1,4 +1,8 @@
 # Luke Bainbridge's First CS193 Homework
+-Favorite things about CS193
+-Introducing me to new cool sites
+-PSO class to ask questions
+-Nice TAs and Friends
 
 ## Welcome to GitHub Pages
 
